@@ -42,7 +42,6 @@ streamlit run legal_bot_complete.py
 
 ### Step 3: Configure in Browser
 1. The app will open in your browser at `http://localhost:8501`
-2. In the sidebar, enter your Groq API key: `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`
 3. Click "Initialize System"
 4. Wait for InLegalBERT model to download and vector database to build
 5. Start asking legal questions!
