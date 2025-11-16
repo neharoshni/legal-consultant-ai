@@ -1,0 +1,229 @@
+[
+  {
+    "text": "Section 302 IPC - Punishment for murder. Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine. Murder is defined under Section 300 as culpable homicide with intention or knowledge that is likely to cause death.",
+    "metadata": {
+      "source": "Indian Penal Code",
+      "section": "302",
+      "category": "criminal",
+      "type": "bare_act",
+      "chapter": "XVI - Of Offences Affecting the Human Body",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 420 IPC - Cheating and dishonestly inducing delivery of property. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "metadata": {
+      "source": "Indian Penal Code",
+      "section": "420",
+      "category": "criminal",
+      "type": "bare_act",
+      "chapter": "XVII - Of Offences Against Property",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 376 IPC - Punishment for rape. Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. The punishment may extend to life imprisonment or death in cases of rape causing death or persistent vegetative state.",
+    "metadata": {
+      "source": "Indian Penal Code",
+      "section": "376",
+      "category": "criminal",
+      "type": "bare_act",
+      "chapter": "XVI - Of Offences Affecting the Human Body",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 498A IPC - Husband or relative of husband of a woman subjecting her to cruelty. Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Cruelty includes willful conduct likely to drive woman to suicide or causing grave injury or danger to life, limb or health, or harassment with intent to coerce her for dowry demands.",
+    "metadata": {
+      "source": "Indian Penal Code",
+      "section": "498A",
+      "category": "criminal",
+      "type": "bare_act",
+      "chapter": "XX - Of Offences Relating to Marriage",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 138 Negotiable Instruments Act - Dishonour of cheque for insufficiency of funds. Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account is returned unpaid due to insufficient funds, the drawer of such cheque shall be deemed to have committed an offence and shall be liable to imprisonment up to two years or fine which may extend to twice the amount of the cheque, or both. The payee must send writte",
+    "metadata": {
+      "source": "Negotiable Instruments Act",
+      "section": "138",
+      "category": "civil",
+      "type": "bare_act",
+      "year": "1881",
+      "chunk_id": 0,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "n notice within 30 days of receiving information about dishonour, and the drawer must pay within 15 days of notice.",
+    "metadata": {
+      "source": "Negotiable Instruments Act",
+      "section": "138",
+      "category": "civil",
+      "type": "bare_act",
+      "year": "1881",
+      "chunk_id": 1,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "Consumer Protection Act 2019 - Filing Complaints. A consumer can file a complaint within two years from the date of cause of action. District Commission has jurisdiction for claims up to Rs 1 crore, State Commission for claims between Rs 1 crore to Rs 10 crore, and National Commission for claims exceeding Rs 10 crore. The complaint can be filed where the opposite party resides, works for gain, or where cause of action arose.",
+    "metadata": {
+      "source": "Consumer Protection Act",
+      "section": "General",
+      "category": "consumer",
+      "type": "procedure",
+      "year": "2019",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 25F Industrial Disputes Act - Conditions precedent to retrenchment of workmen. No workman employed in any industry who has been in continuous service for not less than one year shall be retrenched unless: (a) workman has been given one month's notice in writing indicating the reasons for retrenchment and the period of notice has expired, or the workman has been paid in lieu of such notice, wages for the period of the notice; (b) workman has been paid compensation at the rate of fifteen days average ",
+    "metadata": {
+      "source": "Industrial Disputes Act",
+      "section": "25F",
+      "category": "labor",
+      "type": "bare_act",
+      "year": "1947",
+      "chunk_id": 0,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "pay for every completed year of continuous service.",
+    "metadata": {
+      "source": "Industrial Disputes Act",
+      "section": "25F",
+      "category": "labor",
+      "type": "bare_act",
+      "year": "1947",
+      "chunk_id": 1,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "Right to Information Act 2005 - Any citizen can request information from a Public Authority which is required to reply within 30 days. If information concerns life or liberty of a person, it must be provided within 48 hours. Application fee is Rs 10. If information is not provided within stipulated time, it shall be deemed to be a refusal. Appeals can be filed to First Appellate Authority within 30 days and to Information Commission within 90 days.",
+    "metadata": {
+      "source": "Right to Information Act",
+      "section": "General",
+      "category": "administrative",
+      "type": "procedure",
+      "year": "2005",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 9 Hindu Marriage Act - Restitution of conjugal rights. When either the husband or the wife has, without reasonable excuse, withdrawn from the society of the other, the aggrieved party may apply to the district court for restitution of conjugal rights. The court may decree restitution of conjugal rights if it is satisfied that the statements in the petition are true and there is no legal ground why the application should not be granted.",
+    "metadata": {
+      "source": "Hindu Marriage Act",
+      "section": "9",
+      "category": "family",
+      "type": "bare_act",
+      "year": "1955",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 13 Hindu Marriage Act - Divorce. Any marriage solemnized may be dissolved by a decree of divorce on petition presented by either spouse on various grounds including adultery, cruelty, desertion for continuous period of not less than two years, conversion to another religion, mental disorder, venereal disease, renunciation of the world, or not being heard of as alive for seven years. Additional grounds for wife include husband has been guilty of rape, sodomy or bestiality, or husband has remarried be",
+    "metadata": {
+      "source": "Hindu Marriage Act",
+      "section": "13",
+      "category": "family",
+      "type": "bare_act",
+      "year": "1955",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "IT Act 2000 Section 66D - Punishment for cheating by personation by using computer resource. Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees. This section covers online impersonation and identity theft.",
+    "metadata": {
+      "source": "Information Technology Act",
+      "section": "66D",
+      "category": "cyber",
+      "type": "bare_act",
+      "year": "2000",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Section 67 IT Act - Publishing obscene material in electronic form. Whoever publishes or transmits or causes to be published in the electronic form, any material which is lascivious or appeals to the prurient interest shall be punished on first conviction with imprisonment of either description for a term which may extend to three years and with fine which may extend to five lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to",
+    "metadata": {
+      "source": "Information Technology Act",
+      "section": "67",
+      "category": "cyber",
+      "type": "bare_act",
+      "year": "2000",
+      "chunk_id": 0,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": " five years and also with fine which may extend to ten lakh rupees.",
+    "metadata": {
+      "source": "Information Technology Act",
+      "section": "67",
+      "category": "cyber",
+      "type": "bare_act",
+      "year": "2000",
+      "chunk_id": 1,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "Limitation Act - Time limit for filing suits. For breach of contract, the limitation period is 3 years from the date when the contract is broken. For recovery of immovable property, the period is 12 years from the date when possession becomes adverse. For money suits on bonds or other instruments, the period is 3 years from the date when money becomes payable. For tort claims, the period is 3 years from date when tort is committed.",
+    "metadata": {
+      "source": "Limitation Act",
+      "section": "General",
+      "category": "civil",
+      "type": "procedure",
+      "year": "1963",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "FIR Filing Procedure - First Information Report. Any person can file an FIR at the nearest police station for cognizable offenses (serious crimes where police can arrest without warrant). The complaint can be oral or written. Police must register the FIR and provide a free copy to the complainant. If police refuses to register FIR, complainant can approach Superintendent of Police or file petition under Section 156(3) CrPC before Magistrate. Zero FIR can be filed at any police station regardless of jurisdic",
+    "metadata": {
+      "source": "Criminal Procedure Code",
+      "section": "154",
+      "category": "criminal",
+      "type": "procedure",
+      "chunk_id": 0,
+      "total_chunks": 1
+    }
+  },
+  {
+    "text": "Bail under Section 437 CrPC - Bail in non-bailable cases. When any person accused of or suspected of commission of a non-bailable offense is arrested, the court may grant bail considering factors like nature and gravity of offense, character of evidence, reasonable possibility of presence of accused at trial, and likelihood of committing further offenses. Bail cannot be granted if there are reasonable grounds to believe accused is guilty of offense punishable with death or imprisonment for life. However, ba",
+    "metadata": {
+      "source": "Code of Criminal Procedure",
+      "section": "437",
+      "category": "criminal",
+      "type": "procedure",
+      "year": "1973",
+      "chunk_id": 0,
+      "total_chunks": 2
+    }
+  },
+  {
+    "text": "il may be granted if accused is under 16 years, a woman, or is sick or infirm.",
+    "metadata": {
+      "source": "Code of Criminal Procedure",
+      "section": "437",
+      "category": "criminal",
+      "type": "procedure",
+      "year": "1973",
+      "chunk_id": 1,
+      "total_chunks": 2
+    }
+  }
+]
